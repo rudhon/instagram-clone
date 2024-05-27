@@ -1,5 +1,5 @@
 ## PROJENİN ÇALIŞMASI İÇİN PROJE DİZİNİNDE ÇALIŞTIIRLMASI GEREKEN KOMUTLAR
-*npm expo install
+Markup: *npm expo install
 *npm i @react-native-community/masked-view
 *npm i react-native-gesture-handler
 *npm install @react-navigation/native
